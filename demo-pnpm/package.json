@@ -1,0 +1,15 @@
+{
+  "name": "demo-npm",
+  "version": "1.0.0",
+  "description": "Demo Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "demo",
+    "nodejs"
+  ],
+  "author": "M Haidar Hanif (npm@mhaidarhanif.com)",
+  "license": "MIT"
+}
