@@ -13,6 +13,20 @@ Links:
   - Join Full Bootcamp (30 sessions): https://catamyst.codepolitan.com
     - Syllabus: https://a.catamyst.com/frontend-id
     - Including the full materials, discussion/QA outside the sessions, certificate, and long term career support
+- Catamyst on social media:
+  - YouTube: https://a.catamyst.com/youtube
+
+## Table of Contents
+
+- [Catamyst Frontend Stack](#catamyst-frontend-stack)
+  - [Roles and Career Path](#roles-and-career-path)
+  - [Preferred Stack](#preferred-stack)
+  - [Tech Stack](#tech-stack)
+  - [Extra Tech Stack](#extra-tech-stack)
+  - [Work Stack](#work-stack)
+  - [People to Follow](#people-to-follow)
+    - [International](#international)
+    - [Indonesian](#indonesian)
 
 ## Roles and Career Path
 
@@ -203,8 +217,21 @@ Links:
 - Bun.sh
 - State Management
   - Redux
+    - Redux Toolkit (RTK)
+  - MobX
   - Zustand
   - Recoil
+- Web API: REST / GraphQL / tRPC
+  - Inspection
+    - Postman
+    - Insomnia
+    - Hoppscotch
+  - Request
+    - fetch
+    - Axios
+    - urql
+    - Apollo
+    - Relay
 - Source Code Management (SCM) / Version Control System (VCS)
   - Git
   - Mercurial (hg)
@@ -245,16 +272,6 @@ Links:
 - Domain and Network
   - Cloudflare
   - Google Domains
-- API: REST / GraphQL / tRPC
-  - Inspection
-    - Postman
-    - Insomnia
-    - Hoppscotch
-  - Request
-    - fetch
-    - Axios
-    - urql
-    - Apollo
 - Testing
   - Static
     - Prettier
@@ -262,12 +279,15 @@ Links:
     - ESLint
       - eslint-airbnb
     - Stylelint
+  - Suite
+    - testing-library
   - Unit
     - Vitest
     - Jest
     - Mocha + Chai
   - Integration/Functional
-    - testing-library
+    - Cucumber.js
+    - Jest Cucumber
   - End to End
     - Playwright
     - Cypress
@@ -316,6 +336,11 @@ Links:
   - GraphQL
     - Hygraph (GraphCMS)
     - Payload CMS
+- Development Workflow
+  - TDD (Test-Driven Development)
+  - ATDD (Acceptance Test-Driven Development)
+  - BDD (Behavior Driven Development)
+  - DDD (Domain-Driven Development)
 
 ## Extra Tech Stack
 
@@ -327,6 +352,10 @@ Links:
 - Localization (l10n)
 - Environment Management
   - Doppler
+- Email
+  - EmailJS
+  - ConvertKit
+  - Bento Marketing
 - Payment
   - Gumroad
 - Rich Text Editor (RTE)
@@ -369,3 +398,20 @@ Links:
 - Time Tracking
   - Clockify
   - Toggl
+
+## People to Follow
+
+### International
+
+- Kent C. Dodds
+- Wes Bos
+- Ryan Florence
+- Michael Jackson
+- Josh W Comeau
+
+### Indonesian
+
+- Zain Fathoni
+- Sonny Lazuardi
+- R Adysurya Agus
+- Resi Respati
