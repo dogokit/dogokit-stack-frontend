@@ -45,9 +45,11 @@ Links:
 
 ## Preferred Stack
 
+- Google Chrome / Brave / Firefox / Edge
 - Figma
 - Whimsical
 - Warp
+- Raycast
 - VS Code
 - Markdown + Markdoc / MDX
 - MIT License
@@ -79,6 +81,8 @@ Links:
 - Hoppscotch / Postman / Insomnia
 - REST
   - Axios
+  - [SWR](https://swr.vercel.app) (stale-while-revalidate)
+  - React Query
   - Kontenbase
   - Supabase
 - GraphQL
@@ -89,13 +93,18 @@ Links:
 - Prisma ORM + PostgreSQL
 - Nextra Docs
 - Pulsetic + Better Uptime + Instatus
-- Google Analytics 4 + Splitbee + Posthog + Pirsch
+- Google Analytics 4 + Splitbee + Posthog + Fathom + Pirsch
 - Sentry + Posthog + LogRocket
 - Linear
 - Clockify
 
 ## Stack
 
+- Web Browser
+  - Google Chrome
+  - Brave
+  - Firefox
+  - Edge
 - UI and UX
   - Sketch
   - Wireframe
@@ -116,6 +125,10 @@ Links:
   - iTerm (Mac)
   - Terminal (Linux)
   - PowerShell (Windows)
+- Command
+  - Raycast (Mac)
+  - Alfred (Mac)
+  - Spotlight (Mac)
 - Code Editor
   - Local
     - VS Code
@@ -200,6 +213,7 @@ Links:
     - React Router
     - Reach Router
     - wouter
+    - React Location
   - Form
     - React Hook Form
     - Formik
@@ -224,12 +238,30 @@ Links:
 - Svelte
   - SvelteKit
 - SolidJS
+- [Astro](https://astro.build)
 - Angular
   - AngularJS v1
   - Angular v2+
 - Deno
   - Fresh
 - Bun.sh
+- UI components
+  - React Form
+  - React Table
+  - React Charts
+  - React Virtual
+  - D3.js
+  - p5.js
+  - Chart.js
+  - Highcharts
+  - Three.js
+  - Framer Motion
+  - GSAP (GreenSock Animation Platform)
+  - React Simple Animate
+  - React Simple Img
+- Utilities
+  - [clsx](https://github.com/lukeed/clsx)
+  - [web-vitals](https://github.com/GoogleChrome/web-vitals)
 - State Management
   - Redux
     - Redux Toolkit (RTK)
@@ -250,6 +282,9 @@ Links:
 - Source Code Management (SCM) / Version Control System (VCS)
   - Git
     - Git hook
+    - Conventional Commit
+    - Commitizen
+      - Changelog
   - Mercurial (hg)
 - Code Hosting
   - GitHub
@@ -332,6 +367,7 @@ Links:
   - Splitbee
   - Posthog
   - Pirsch
+  - Fathom
   - Plausible
   - MixPanel
 - Error Reporting
@@ -353,6 +389,9 @@ Links:
   - GraphQL
     - Hygraph (GraphCMS)
     - Payload CMS
+- Web3
+  - RainbowKit
+  - Ethers.js
 - Development Workflow
   - TDD (Test-Driven Development)
   - ATDD (Acceptance Test-Driven Development)
@@ -361,11 +400,19 @@ Links:
 
 ## Extra Stack
 
+- Other things
+  - Web Components
+- Other languages for JS tooling
+  - Rust
+  - Zig
+- Other libraries
+  - Livewire
+  - Inertia.js
+  - [Hotwire](https://hotwired.dev)
+  - [Turbo](https://turbo.hotwired.dev)
+  - [Stimulus](https://stimulus.hotwired.dev)
 - Semantic Versioning (major.minor.patch)
   - `package.json`
-- Conventional Commit
-  - Commitizen
-  - Changelog
 - Accessibility (a11y)
   - The A11Y Project
 - Internationalization (i18n)
@@ -423,15 +470,140 @@ Links:
 
 ### International
 
-- Kent C. Dodds
+- M Haidar Hanif - The author of this repo
+- Brendan Eich - JavaScript
+- Ryan Dahl - Node.js & Deno
+- Jarred Sumner - Bun.sh
+- Eric Elliott
+- Douglas Crockford
+- Dr. Axel Rauschmayer
+- Kyle Simpson
+- Nicholas C. Zakas
+- Marijn Haverbeke
+- Tom Preston-Werner (mojombo) - GitHub & Redwood
+- Sid Sijbrandij - GitLab
+- DHH - Rails & Basecamp
+- Dylan Field - Figma
+- Kent C. Dodds - Epic React
+- Ryan Florence - Remix & React Router
+- Michael Jackson - Remix & React Router
+- John Lindquist - Egghead.io
+- Quincy Larson - freeCodeCamp
+- Ben Halpern - DEV.to & Forem
+- Theo Browne (t3)
+- Ben Awad
+- Jeff Delaney (fireship)
+- Tanner Linsley
+- Jared Palmer
+- Shawn swyx Wang
+- Sindre Sorhus
+- mrdoob
+- Dan Abramov
+- Evan You
 - Wes Bos
-- Ryan Florence
-- Michael Jackson
+- Scott Tolinski
+- Chris Sev
+- Florin Pop
+- Mattias Petter Johansson (mpj) - Fun Fun Function
+- Pieter Levels - Bangkok/Bali
+- Jon Yongfook - Bali
+- Fabrizio Rinaldi
+- Dan Rowden (dr)
+- Max Stoiber
+- Timo Lins & Tobias Lins
+- Damon Chen
+- Tony Dinh
+- Cassidy Williams (cassidoo)
+- Jason Lengstorf
+- Robin Wieruch
+- Adam Wathan
+- Simon Høiberg
+- Simon Sturmer
+- Simon "Swiss" Vrachliotis
+- Adrian Twarog
+- Guillermo Rauch
+- Lee Robinson
+- Brian Lovin
+- Addy Osmani
+- Paul Irish
+- Eric Bidelman
+- Sara Soueidan
 - Josh W Comeau
+- Sergio Xalambrí
+- Segun Adebayo
+- Ant Wilson
+- Paul Copplestone (kiwicopple)
+- Jon Meyers
+- Chance Strickland
+- Brian Holt
+- Arisa Fukuzaki
+- Alex Johansson
+- Ben Holmes
+- Paco Coursey
+- Jesse Hanley
+- Karri Saarinen
+- Tuomas Artman
+- Jori Lallo
+- Tomek Sułkowski (sulco) - StackBlitz
+- Peter Cilliers-Pistorius
+- Adam Argyle
+- Pedro Duarte
+- Nikolas Burk
+- Amelia Wattenberger
+- Tom Hirst
+- Ryan Chenkie
+- Kenneth Cassel
+- Todd Motto
+- Marc Kohlbrugge
+- Nadia Laasri
+- Annie Bombanie
+- Danny Postma - Bali
+- Meng To
+- Gregg Pollack
+- Mehul Mohan
+- Andrei Neagoie
+- Moshfegh Hamedani
+- Courtland Allen
+- Ryan Hoover
+- Revel Carlberg West
+- Will Johnson (willjohnsonio)
+- Ahmad Awais
+- Maedah Batool
+- Mohd Danish Yusuf
+- Fajar Siddiq
+- Jecelyn Yeen (jecfish)
+- Henry Lim (henrylim96)
+- Jack “The Comeback Kid” McDade
+- bluebill1049 - React Hook Form (RHF)
+- An / Anton Röhm / AnTheMaker
+- Coder Coder
+- Bereket
+- devUdara
 
 ### Indonesian
 
+- Rahman Fadhil (rahmanfadhil14)
+- Ariya Hidayat
 - Zain Fathoni
 - Sonny Lazuardi
 - R Adysurya Agus
-- Resi Respati
+- Jihad D. Waspada
+- Sastra Panca Nababan
+- Resi "resir014" Respati
+- Irfan "Mazipan" Maulana
+- Muh Isfhani Ghiath (isfaaghyth)
+- Theodorus Clarence
+- Griko Nibras
+- Yohan Totting
+- Riza Fahmi
+- Muhammad "Odi" Mustadi (mathdroid)
+- Sandhika Galih
+- Ahmad Oriza & Toni Haryanto
+- Philip Young
+- Yuma Soerianto
+- Indra Gunawan
+
+## References
+
+- [Refactoring UI](https://refactoringui.com)
+- Newline
