@@ -50,55 +50,51 @@ Links:
 - Warp
 - VS Code
 - Markdown + Markdoc / MDX
+- MIT License
 - HTML
-- CSS
-  - Tailwind CSS
+- CSS + Tailwind CSS
 - TypeScript/JavaScript
   - Zod / Yup
   - dayjs + date-fns
-- Node.js
+- Node.js + npm
   - Volta / asdf
-- npm
-- Vite / esbuild + swc
+- Vite / esbuild + swc / Webpack
 - React
   - Remix
   - Next.js
   - Vite + React Router / wouter
-  - React Hook Form / Formik
+  - React Hook Form / Formik + Downshift
   - Headless UI + Radix UI + Vechai UI
 - Git + GitHub
-- Vercel
+  - Git hook with Husky
+- Vercel / Netlify
 - ImageKit
 - Cloudflare
-- Prettier
-- ESLint
-- Stylelint
-- Vitest
-- testing-library
+- Prettier + ESLint + Stylelint
+- Vitest / Jest + testing-library
+  - MSW (Mock Service Worker)
+  - Falso
 - Playwright
 - Laddle
-- Hoppscotch
+- Hoppscotch / Postman / Insomnia
 - REST
   - Axios
   - Kontenbase
-  - Firebase
   - Supabase
 - GraphQL
-  - urql
+  - urql / graphql-request
+  - Apollo
   - Hygraph (GraphCMS)
   - Payload CMS
-- MSW (Mock Service Worker)
-- Falso
-- Nextra
+- Prisma ORM + PostgreSQL
+- Nextra Docs
 - Pulsetic + Better Uptime + Instatus
 - Google Analytics 4 + Splitbee + Posthog + Pirsch
-- Sentry
-- Database
-  - Prisma + PostgreSQL
+- Sentry + Posthog + LogRocket
 - Linear
 - Clockify
 
-## Tech Stack
+## Stack
 
 - UI and UX
   - Sketch
@@ -123,16 +119,35 @@ Links:
 - Code Editor
   - Local
     - VS Code
+      - Language Support
+      - Color Theme
+      - Icon Theme
+      - Product Icon
+      - File Utils
+      - Image Preview
+      - Quit Control
     - Sublime
     - JetBrains WebStorm
   - Cloud
     - CodePen
     - StackBlitz
     - CodeSandbox
-- Markdown
+- Documentation / [README](https://makeareadme.com)
+  - Markdown
+    - CommonMark
+    - Markdoc
+  - AsciiDoc
+  - reStructuredText
+  - Textile
   - LaTeX
     - Math Formula
-  - Markdoc
+- License
+  - Creative Commons
+  - ISC (Internet Systems Consortium)
+  - MIT (Massachusetts Institute of Technology)
+  - GPL (GNU General Public License) / AGPL (GNU Affero General Public License)
+  - BSD (Berkeley Software Distribution)
+  - MPL (Mozilla Public License)
 - HTML
   - DOM
 - CSS
@@ -234,6 +249,7 @@ Links:
     - Relay
 - Source Code Management (SCM) / Version Control System (VCS)
   - Git
+    - Git hook
   - Mercurial (hg)
 - Code Hosting
   - GitHub
@@ -274,6 +290,7 @@ Links:
   - Google Domains
 - Testing
   - Static
+    - EditorConfig
     - Prettier
       - prettier-plugin-tailwindcss
     - ESLint
@@ -285,7 +302,7 @@ Links:
     - Vitest
     - Jest
     - Mocha + Chai
-  - Integration/Functional
+  - Functional/Integration
     - Cucumber.js
     - Jest Cucumber
   - End to End
@@ -342,10 +359,13 @@ Links:
   - BDD (Behavior Driven Development)
   - DDD (Domain-Driven Development)
 
-## Extra Tech Stack
+## Extra Stack
 
 - Semantic Versioning (major.minor.patch)
+  - `package.json`
 - Conventional Commit
+  - Commitizen
+  - Changelog
 - Accessibility (a11y)
   - The A11Y Project
 - Internationalization (i18n)
