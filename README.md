@@ -2,15 +2,16 @@
 
 Discussion and demo for Frontend Web Development with Modern Tech Stack.
 
+Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https://github.com/catamyst-community). [Haidar](https://mhaidarhanif.com) is the Founder and Mentor of [Catamyst](https://github.com/catamyst), [helping people](https://linkedin.com/in/mhaidarhanif) in web development, software engineering, interface design, product management, and tech business.
+
 Links:
 
 - Catamyst Stack: https://a.catamyst.com/stack
-- Frontend Web Development Syllabus
-  - English: https://a.catamyst.com/frontend-en
-  - Indonesian: https://a.catamyst.com/frontend-id
 - CodePolitan × Catamyst Bootcamp
   - Join Mini Bootcamp (1 session): https://a.catamyst.com/codepolitan-mini
-  - Join Full Bootcamp (15 sessions): https://catamyst.codepolitan.com
+    - Syllabus: https://a.catamyst.com/codepolitan-mini-silabus
+  - Join Full Bootcamp (30 sessions): https://catamyst.codepolitan.com
+    - Syllabus: https://a.catamyst.com/frontend-id
     - Including the full materials, discussion/QA outside the sessions, certificate, and long term career support
 
 ## Roles and Career Path
@@ -34,33 +35,27 @@ Links:
 - Whimsical
 - Warp
 - VS Code
-- Markdown
-  - Markdoc
+- Markdown + Markdoc / MDX
 - HTML
 - CSS
   - Tailwind CSS
 - TypeScript/JavaScript
-  - Zod
+  - Zod / Yup
   - dayjs + date-fns
 - Node.js
   - Volta / asdf
 - npm
-- Vite/esbuild/swc
+- Vite / esbuild + swc
 - React
   - Remix
   - Next.js
-  - Vite
-    - React Router
-    - wouter
-  - React Hook Form
+  - Vite + React Router / wouter
+  - React Hook Form / Formik
   - Headless UI + Radix UI + Vechai UI
 - Git + GitHub
 - Vercel
 - ImageKit
 - Cloudflare
-- GraphQL
-- Hoppscotch
-- urql
 - Prettier
 - ESLint
 - Stylelint
@@ -68,19 +63,22 @@ Links:
 - testing-library
 - Playwright
 - Laddle
+- Hoppscotch
+- REST
+  - Axios
+  - Kontenbase
+  - Firebase
+  - Supabase
+- GraphQL
+  - urql
+  - Hygraph (GraphCMS)
+  - Payload CMS
 - MSW (Mock Service Worker)
 - Falso
 - Nextra
 - Pulsetic + Better Uptime + Instatus
 - Google Analytics 4 + Splitbee + Posthog + Pirsch
 - Sentry
-- REST
-  - Kontenbase
-  - Firebase
-  - Supabase
-- GraphQL
-  - Hygraph (GraphCMS)
-  - Payload CMS
 - Database
   - Prisma + PostgreSQL
 - Linear
@@ -97,6 +95,7 @@ Links:
   - UI
     - Figma
     - Framer
+    - Adobe XD
     - Invision
     - UXPin
   - UX + Business Process/Flow
@@ -206,8 +205,10 @@ Links:
   - Redux
   - Zustand
   - Recoil
-- Code Hosting
+- Source Code Management (SCM) / Version Control System (VCS)
   - Git
+  - Mercurial (hg)
+- Code Hosting
   - GitHub
   - GitLab
   - Bitbucket
