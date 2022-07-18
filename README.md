@@ -1,6 +1,17 @@
 # Catamyst Frontend Stack
 
-Frontend Web Development with Modern Tech Stack.
+Discussion and demo for Frontend Web Development with Modern Tech Stack.
+
+Links:
+
+- Catamyst Stack: https://a.catamyst.com/stack
+- Frontend Web Development Syllabus
+  - English: https://a.catamyst.com/frontend-en
+  - Indonesian: https://a.catamyst.com/frontend-id
+- CodePolitan × Catamyst Bootcamp
+  - Join Mini Bootcamp (1 session): https://a.catamyst.com/codepolitan-mini
+  - Join Full Bootcamp (15 sessions): https://catamyst.codepolitan.com
+    - Including the full materials, discussion/QA outside the sessions, certificate, and long term career support
 
 ## Roles and Career Path
 
@@ -16,6 +27,64 @@ Frontend Web Development with Modern Tech Stack.
 - VP of User Experience -> Technical
 - CTO (Chief Technology Officer) -> Management
 - CDO (Chief Design Officer) -> Management
+
+## Preferred Stack
+
+- Figma
+- Whimsical
+- Warp
+- VS Code
+- Markdown
+  - Markdoc
+- HTML
+- CSS
+  - Tailwind CSS
+- TypeScript/JavaScript
+  - Zod
+  - dayjs + date-fns
+- Node.js
+  - Volta / asdf
+- npm
+- Vite/esbuild/swc
+- React
+  - Remix
+  - Next.js
+  - Vite
+    - React Router
+    - wouter
+  - React Hook Form
+  - Headless UI + Radix UI + Vechai UI
+- Git + GitHub
+- Vercel
+- ImageKit
+- Cloudflare
+- GraphQL
+- Hoppscotch
+- urql
+- Prettier
+- ESLint
+- Stylelint
+- Vitest
+- testing-library
+- Playwright
+- Laddle
+- MSW (Mock Service Worker)
+- Falso
+- Nextra
+- Pulsetic + Better Uptime + Instatus
+- Google Analytics 4 + Splitbee + Posthog + Pirsch
+- Sentry
+- REST
+  - Kontenbase
+  - Firebase
+  - Supabase
+- GraphQL
+  - Hygraph (GraphCMS)
+  - Payload CMS
+- Database
+  - Prisma + PostgreSQL
+- Linear
+- Clockify
 
 ## Tech Stack
 
@@ -33,6 +102,20 @@ Frontend Web Development with Modern Tech Stack.
   - UX + Business Process/Flow
     - Whimsical
     - Miro
+- Terminal
+  - Warp (Mac)
+  - iTerm (Mac)
+  - Terminal (Linux)
+  - PowerShell (Windows)
+- Code Editor
+  - Local
+    - VS Code
+    - Sublime
+    - JetBrains WebStorm
+  - Cloud
+    - CodePen
+    - StackBlitz
+    - CodeSandbox
 - Markdown
   - LaTeX
     - Math Formula
@@ -43,6 +126,8 @@ Frontend Web Development with Modern Tech Stack.
   - CSS Reset
     - Normalize.css
     - modern-normalize
+  - PostCSS
+    - autoprefixer
 - Tailwind CSS
   - Bootstrap
   - Bulma
@@ -52,8 +137,13 @@ Frontend Web Development with Modern Tech Stack.
   - Tailwind + Email = Mailwind
 - JavaScript
 - TypeScript
-  - Yup
-  - Zod
+  - Data Validation
+    - Yup
+    - Zod
+  - Date Time
+    - date-fns
+    - dayjs
+    - Moment.js
 - Node.js
   - nvm
   - Volta
@@ -63,9 +153,10 @@ Frontend Web Development with Modern Tech Stack.
   - Yarn
 - Build/Bundle
   - Vite
-  - ESBuild
+  - esbuild
   - Webpack
   - Babel
+  - swc
   - Parcel
   - Gulp
   - Grunt
@@ -74,8 +165,22 @@ Frontend Web Development with Modern Tech Stack.
   - CRA (Create React App)
   - Vite
   - Next.js
-  - Remix-React
+    - NextAuth
   - GatsbyJS
+  - Remix-React
+  - Routing
+    - React Router
+    - Reach Router
+    - wouter
+  - Form
+    - React Hook Form
+    - Formik
+  - Unstyled Components
+    - Headless UI
+    - Radix UI
+    - Reach UI
+    - AriaKit
+    - Vechai UI
   - CSS-in-JS
     - styled-components
     - emotion
@@ -84,11 +189,6 @@ Frontend Web Development with Modern Tech Stack.
     - Chakra UI
     - MUI
     - NextUI
-  - React-Specific Tailwind CSS
-    - Vechai UI
-  - Form
-    - React Hook Form
-    - Formik
 - Vue
   - Vite
   - Nuxt.js
@@ -96,9 +196,21 @@ Frontend Web Development with Modern Tech Stack.
 - Svelte
   - SvelteKit
 - SolidJS
+- Angular
+  - AngularJS v1
+  - Angular v2+
 - Deno
   - Fresh
 - Bun.sh
+- State Management
+  - Redux
+  - Zustand
+  - Recoil
+- Code Hosting
+  - Git
+  - GitHub
+  - GitLab
+  - Bitbucket
 - Deployment
   - GitHub Pages
   - Vercel
@@ -116,13 +228,17 @@ Frontend Web Development with Modern Tech Stack.
     - Amazon Lightsail
     - Amazon EC2 (Elastic Compute Cloud)
     - Google CE (Compute Engine)
-  - Storage & CDN
+  - File Storage & CDN
     - ImageKit
     - Cloudinary
     - Upload.io
     - Amazon S3
     - Google CS (Cloud Storage)
     - Azure Blob Storage
+  - Video/Streaming Storage
+    - Muse.ai
+    - YouTube
+    - Vimeo
   - CDN
     - Amazon Cloudfront
 - Domain and Network
@@ -140,8 +256,10 @@ Frontend Web Development with Modern Tech Stack.
     - Apollo
 - Testing
   - Static
-    - ESLint
     - Prettier
+      - prettier-plugin-tailwindcss
+    - ESLint
+      - eslint-airbnb
     - Stylelint
   - Unit
     - Vitest
@@ -153,13 +271,12 @@ Frontend Web Development with Modern Tech Stack.
     - Playwright
     - Cypress
     - Selenium
-  - Snapshot
-  - UI/Component
+  - UI/Component/Snapshot
     - Storybook
     - Laddle
     - Histoire
   - Mock or Dummy Data
-    - Mock Service Worker (MSW)
+    - MSW (Mock Service Worker)
       - GitHub API
       - Weather API
     - Falso
@@ -190,25 +307,35 @@ Frontend Web Development with Modern Tech Stack.
 - Feature Toggle
   - Growthbook
   - LaunchDarkly
+- BaaS (Backend as a Service)
+  - REST
+    - Kontenbase
+    - Firebase
+    - Supabase
+  - GraphQL
+    - Hygraph (GraphCMS)
+    - Payload CMS
 
 ## Extra Tech Stack
 
 - Semantic Versioning (major.minor.patch)
 - Conventional Commit
-- CI/CD (Continuous Integration/Delivery/Deployment)
-  - GitHub Actions
-  - Travis CI
-  - CodeFactor
 - Accessibility (a11y)
   - The A11Y Project
 - Internationalization (i18n)
 - Localization (l10n)
+- Environment Management
+  - Doppler
 - Payment
   - Gumroad
 - Rich Text Editor (RTE)
   - Lexical
   - Draft.js
   - Slate.js
+- CI/CD (Continuous Integration/Delivery/Deployment)
+  - GitHub Actions
+  - Travis CI
+  - CodeFactor
 - Chat Box / CRM
   - Hubspot CRM
   - Crisp
@@ -216,16 +343,28 @@ Frontend Web Development with Modern Tech Stack.
   - Front
   - Tidio
 - CMS
-  - Netlify CMS
   - Hygraph (GraphCMS)
+  - Payload CMS
+  - Netlify CMS
+  - Sanity
   - DatoCMS
-  - PayloadCMS
+- Monorepo
+  - Turborepo
+  - Nx
+  - Bazel
+- Containerization
+  - Docker
+- Misc
+  - superjson
+
+## Work Stack
+
+- Project Management
+  - Linear
+  - Atlassian Jira
+  - Trello
+  - Asana
+  - Basecamp
 - Time Tracking
   - Clockify
   - Toggl
-- Containerization
-  - Docker
-
-# References
-
-- Catamyst Stack: https://a.catamyst.com/stack
