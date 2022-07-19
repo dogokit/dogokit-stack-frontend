@@ -67,6 +67,7 @@ Links:
   - Vite + React Router / wouter
   - React Hook Form / Formik + Downshift
   - Headless UI + Radix UI + Vechai UI
+  - React Native
 - Git + GitHub
   - Git hook with Husky
 - Vercel / Netlify
@@ -101,7 +102,7 @@ Links:
 ## Stack
 
 - Web Browser
-  - Google Chrome
+  - Google Chrome ⭐
   - Brave
   - Firefox
   - Edge
@@ -110,28 +111,32 @@ Links:
   - Wireframe
   - Mockup
   - Prototype
+  - Design System
+    - Material Design
+    - Apple Human Interface Guidelines (HIG)
 - Design Tools
   - UI
-    - Figma
+    - Figma ⭐
     - Framer
     - Adobe XD
     - Invision
     - UXPin
   - UX + Business Process/Flow
-    - Whimsical
+    - Whimsical ⭐
     - Miro
 - Terminal
-  - Warp (Mac)
+  - Warp (Mac) ⭐
   - iTerm (Mac)
+  - Hyper.sh (Mac/Linux/Windows) ⭐
   - Terminal (Linux)
   - PowerShell (Windows)
 - Command
-  - Raycast (Mac)
+  - Raycast (Mac) ⭐
   - Alfred (Mac)
   - Spotlight (Mac)
 - Code Editor
   - Local
-    - VS Code
+    - VS Code ⭐
       - Language Support
       - Color Theme
       - Icon Theme
@@ -139,16 +144,17 @@ Links:
       - File Utils
       - Image Preview
       - Quit Control
-    - Sublime
+    - Atom ⛔
+    - Sublime Text
     - JetBrains WebStorm
   - Cloud
-    - CodePen
-    - StackBlitz
+    - CodePen ⭐
+    - StackBlitz ⭐
     - CodeSandbox
 - Documentation / [README](https://makeareadme.com)
-  - Markdown
+  - Markdown ⭐
     - CommonMark
-    - Markdoc
+    - Markdoc ⭐
   - AsciiDoc
   - reStructuredText
   - Textile
@@ -157,8 +163,9 @@ Links:
 - License
   - Creative Commons
   - ISC (Internet Systems Consortium)
-  - MIT (Massachusetts Institute of Technology)
-  - GPL (GNU General Public License) / AGPL (GNU Affero General Public License)
+  - MIT (Massachusetts Institute of Technology) ⭐
+  - GPL (GNU General Public License)
+  - AGPL (GNU Affero General Public License)
   - BSD (Berkeley Software Distribution)
   - MPL (Mozilla Public License)
 - HTML
@@ -166,102 +173,123 @@ Links:
 - CSS
   - CSS Reset
     - Normalize.css
-    - modern-normalize
-  - PostCSS
+    - modern-normalize ⭐
+  - PostCSS ⭐
     - autoprefixer
-- Tailwind CSS
+- Tailwind CSS ⭐
   - Bootstrap
-  - Bulma
-  - Foundation
-  - PureCSS
   - Material Components
+  - Bulma ⛔
+  - Foundation ⛔
+  - PureCSS ⛔
   - Tailwind + Email = Mailwind
-- JavaScript
-- TypeScript
-  - Data Validation
-    - Yup
-    - Zod
-  - Date Time
-    - date-fns
-    - dayjs
-    - Moment.js
-- Node.js
+- JavaScript ⭐
+  - jQuery ⛔
+  - Zepto ⛔
+  - MooTools ⛔
+- TypeScript ⭐
+  - DefinitelyTyped
+- Node.js ⭐
   - nvm
-  - Volta
+  - Volta ⭐
   - asdf
-- npm
+- npm ⭐
   - pnpm
   - Yarn
 - Build/Bundle
-  - Vite
-  - esbuild
+  - Vite ⭐
+  - esbuild ⭐
   - Webpack
   - Babel
-  - swc
+  - swc ⭐
   - Parcel
   - Gulp
   - Grunt
 - React
   - Plain
   - CRA (Create React App)
-  - Vite
-  - Next.js
-    - NextAuth
+  - Vite ⭐
   - GatsbyJS
-  - Remix-React
-  - Routing
-    - React Router
-    - Reach Router
-    - wouter
-    - React Location
-  - Form
-    - React Hook Form
-    - Formik
-  - Unstyled Components
-    - Headless UI
-    - Radix UI
-    - Reach UI
-    - AriaKit
-    - Vechai UI
-  - CSS-in-JS
-    - styled-components
-    - emotion
-    - xstyled
-    - Stitches
-    - Chakra UI
-    - MUI
-    - NextUI
+  - Next.js ⭐
+    - NextAuth
+  - Remix-React ⭐
+  - React Native ⭐
+    - Expo ⭐
+  - Desktop
+    - Electron
+    - Tauri ⭐
+    - Neutralinojs ⭐
 - Vue
-  - Vite
-  - Nuxt.js
-  - Remix-Vue (Soon)
-- Svelte
-  - SvelteKit
+  - Vite ⭐
+  - Nuxt.js ⭐
+  - Remix-Vue (Soon) ⭐
+- Svelte ⭐
+  - SvelteKit ⭐
 - SolidJS
 - [Astro](https://astro.build)
 - Angular
   - AngularJS v1
   - Angular v2+
-- Deno
-  - Fresh
-- Bun.sh
-- UI components
+- Deno ⭐
+  - Fresh ⭐
+- Bun.sh ⭐
+- UI Routing
+  - React Router ⭐
+  - Reach Router
+  - wouter
+  - React Location ⭐
+- UI form components
+  - React Hook Form ⭐
+  - Formik
   - React Form
+- UI unstyled components
+  - Headless UI ⭐
+  - Radix UI ⭐
+  - Reach UI ⭐
+  - AriaKit
+  - Vechai UI ⭐
+- UI CSS-in-JS components
+  - `styled-components`
+  - emotion
+  - xstyled
+  - Stitches
+  - Chakra UI ⭐
+  - MUI ⭐
+  - NextUI
+- UI components
   - React Table
   - React Charts
   - React Virtual
-  - D3.js
+  - Remotion Video ⭐
+  - Slidev ⭐
+  - D3.js ⭐
   - p5.js
   - Chart.js
   - Highcharts
-  - Three.js
-  - Framer Motion
-  - GSAP (GreenSock Animation Platform)
-  - React Simple Animate
+  - Three.js ⭐
+  - Framer Motion ⭐
+  - GSAP (GreenSock Animation Platform) ⭐
+  - React Simple Animate ⭐
   - React Simple Img
+  - `react-beautiful-dnd`
+  - kbar
+  - Rich Text Editor (RTE)
+    - Lexical ⭐
+    - Quill.js ⭐
+    - Draft.js
+    - Slate.js
 - Utilities
-  - [clsx](https://github.com/lukeed/clsx)
-  - [web-vitals](https://github.com/GoogleChrome/web-vitals)
+  - Data Validation
+    - Yup
+    - Zod ⭐
+  - Date Time
+    - date-fns ⭐
+    - dayjs ⭐
+    - Moment.js
+  - Misc
+    - [clsx](https://github.com/lukeed/clsx) ⭐
+    - [web-vitals](https://github.com/GoogleChrome/web-vitals) ⭐
+    - superjson
 - State Management
   - Redux
     - Redux Toolkit (RTK)
@@ -270,34 +298,36 @@ Links:
   - Recoil
 - Web API: REST / GraphQL / tRPC
   - Inspection
+    - Hoppscotch ⭐
     - Postman
     - Insomnia
-    - Hoppscotch
   - Request
-    - fetch
-    - Axios
-    - urql
+    - fetch ⭐
+    - Axios ⭐
+    - urql ⭐
     - Apollo
     - Relay
 - Source Code Management (SCM) / Version Control System (VCS)
-  - Git
+  - Git ⭐
     - Git hook
     - Conventional Commit
     - Commitizen
       - Changelog
   - Mercurial (hg)
 - Code Hosting
-  - GitHub
+  - GitHub ⭐
   - GitLab
   - Bitbucket
 - Deployment
-  - GitHub Pages
-  - Vercel
-  - Netlify
+  - GitHub Pages ⭐
+  - Vercel ⭐
+  - Netlify ⭐
   - Render
+  - Fly.io
+  - Deno Deploy
   - PaaS (Platform as a Service)
     - Heroku
-    - Railway
+    - Railway ⭐
     - Amazon EB (Elastic Beanstalk)
     - Google App Engine
   - VPS
@@ -308,8 +338,8 @@ Links:
     - Amazon EC2 (Elastic Compute Cloud)
     - Google CE (Compute Engine)
   - File Storage & CDN
-    - ImageKit
-    - Cloudinary
+    - ImageKit ⭐
+    - Cloudinary ⭐
     - Upload.io
     - Amazon S3
     - Google CS (Cloud Storage)
@@ -321,76 +351,85 @@ Links:
   - CDN
     - Amazon Cloudfront
 - Domain and Network
-  - Cloudflare
+  - Cloudflare ⭐
   - Google Domains
+- Environment Management
+  - Doppler ⭐
+- CI/CD (Continuous Integration/Delivery/Deployment)
+  - GitHub Actions ⭐
+  - Travis CI
+  - CodeFactor
 - Testing
   - Static
-    - EditorConfig
-    - Prettier
+    - EditorConfig ⭐
+    - Prettier ⭐
       - prettier-plugin-tailwindcss
-    - ESLint
+    - ESLint ⭐
       - eslint-airbnb
-    - Stylelint
+    - Stylelint ⭐
   - Suite
-    - testing-library
+    - testing-library ⭐
   - Unit
-    - Vitest
+    - Vitest ⭐
     - Jest
     - Mocha + Chai
   - Functional/Integration
     - Cucumber.js
     - Jest Cucumber
   - End to End
-    - Playwright
+    - Playwright ⭐
     - Cypress
     - Selenium
-  - UI/Component/Snapshot
+  - UI / Component / Design System
     - Storybook
-    - Laddle
+    - Laddle ⭐
     - Histoire
   - Mock or Dummy Data
-    - MSW (Mock Service Worker)
-      - GitHub API
-      - Weather API
-    - Falso
+    - MSW (Mock Service Worker) ⭐
+      - For 3rd party such as GitHub API, Weather API, Currency API
+    - Falso ⭐
     - Faker
 - Documentation
   - Docusaurus
-  - Nextra
+  - Nextra ⭐
   - Slate Docs
 - Status Monitoring
-  - Pulsetic
-  - Better Uptime
-  - Instatus
+  - Pulsetic ⭐
+  - Better Uptime ⭐
+  - Instatus ⭐
 - Analytics
-  - Google Analytics 4
-  - Splitbee
-  - Posthog
-  - Pirsch
-  - Fathom
+  - Google Analytics 4 ⭐
+  - Splitbee ⭐
+  - Posthog ⭐
+  - Pirsch ⭐
+  - Fathom ⭐
   - Plausible
   - MixPanel
+- Feature Toggle
+  - Growthbook ⭐
+  - LaunchDarkly
 - Error Reporting
-  - Sentry
+  - Sentry ⭐
   - LogRocket
   - New Relic
-  - Metronome for Remix
+  - Metronome for Remix ⭐
 - Dependency Monitoring
-  - DepFu
-  - Snyk
-- Feature Toggle
-  - Growthbook
-  - LaunchDarkly
-- BaaS (Backend as a Service)
+  - DepFu ⭐
+  - Snyk ⭐
+- BaaS (Backend as a Service) / CMS (Content Management System)
   - REST
-    - Kontenbase
+    - Kontenbase ⭐
     - Firebase
-    - Supabase
+    - Supabase ⭐
+    - DatoCMS
   - GraphQL
-    - Hygraph (GraphCMS)
-    - Payload CMS
+    - Hygraph (GraphCMS) ⭐
+    - Payload CMS ⭐
+  - Misc
+    - Netlify CMS
+    - Sanity
 - Web3
-  - RainbowKit
+  - RainbowKit ⭐
   - Ethers.js
 - Development Workflow
   - TDD (Test-Driven Development)
@@ -400,8 +439,10 @@ Links:
 
 ## Extra Stack
 
-- Other things
+- Other things and legacy
   - Web Components
+  - CoffeeScript
+  - Elm
 - Other languages for JS tooling
   - Rust
   - Zig
@@ -412,58 +453,42 @@ Links:
   - [Turbo](https://turbo.hotwired.dev)
   - [Stimulus](https://stimulus.hotwired.dev)
 - Semantic Versioning (major.minor.patch)
-  - `package.json`
 - Accessibility (a11y)
   - The A11Y Project
 - Internationalization (i18n)
+  - [i18next](https://i18next.com)
 - Localization (l10n)
-- Environment Management
-  - Doppler
 - Email
-  - EmailJS
-  - ConvertKit
-  - Bento Marketing
+  - Marketing
+    - ConvertKit ⭐
+    - Bento Marketing
+  - Transactional
+    - EmailJS ⭐
 - Payment
-  - Gumroad
-- Rich Text Editor (RTE)
-  - Lexical
-  - Draft.js
-  - Slate.js
-- CI/CD (Continuous Integration/Delivery/Deployment)
-  - GitHub Actions
-  - Travis CI
-  - CodeFactor
+  - Gumroad ⭐
 - Chat Box / CRM
-  - Hubspot CRM
-  - Crisp
+  - Hubspot CRM ⭐
+  - Crisp ⭐
   - Chatwoot
   - Front
   - Tidio
-- CMS
-  - Hygraph (GraphCMS)
-  - Payload CMS
-  - Netlify CMS
-  - Sanity
-  - DatoCMS
 - Monorepo
   - Turborepo
   - Nx
   - Bazel
 - Containerization
   - Docker
-- Misc
-  - superjson
 
 ## Work Stack
 
 - Project Management
-  - Linear
+  - Linear ⭐
   - Atlassian Jira
   - Trello
   - Asana
   - Basecamp
 - Time Tracking
-  - Clockify
+  - Clockify ⭐
   - Toggl
 
 ## People to Follow
@@ -584,21 +609,21 @@ Links:
 
 - Rahman Fadhil (rahmanfadhil14)
 - Ariya Hidayat
-- Zain Fathoni
 - Sonny Lazuardi
+- Zain Fathoni
 - R Adysurya Agus
-- Jihad D. Waspada
-- Sastra Panca Nababan
 - Resi "resir014" Respati
+- Sastra Panca Nababan
 - Irfan "Mazipan" Maulana
+- Sandhika Galih
+- Ahmad Oriza & Toni Haryanto
+- Jihad D. Waspada
 - Muh Isfhani Ghiath (isfaaghyth)
-- Theodorus Clarence
-- Griko Nibras
 - Yohan Totting
 - Riza Fahmi
 - Muhammad "Odi" Mustadi (mathdroid)
-- Sandhika Galih
-- Ahmad Oriza & Toni Haryanto
+- Theodorus Clarence
+- Griko Nibras
 - Philip Young
 - Yuma Soerianto
 - Indra Gunawan
