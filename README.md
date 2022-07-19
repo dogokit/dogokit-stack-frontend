@@ -4,29 +4,48 @@ Discussion and demo for Frontend Web Development with Modern Tech Stack.
 
 Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https://github.com/catamyst-community). [Haidar](https://mhaidarhanif.com) is the Founder and Mentor of [Catamyst](https://github.com/catamyst), [helping people](https://linkedin.com/in/mhaidarhanif) in web development, software engineering, interface design, product management, and tech business.
 
-Links:
-
-- Catamyst Stack: https://a.catamyst.com/stack
-- CodePolitan × Catamyst Bootcamp
-  - Join Mini Bootcamp (1 session): https://a.catamyst.com/codepolitan-mini
-    - Syllabus: https://a.catamyst.com/codepolitan-mini-silabus
-  - Join Full Bootcamp (30 sessions): https://catamyst.codepolitan.com
-    - Syllabus: https://a.catamyst.com/frontend-id
-    - Including the full materials, discussion/QA outside the sessions, certificate, and long term career support
-- Catamyst on social media:
-  - YouTube: https://a.catamyst.com/youtube
-
 ## Table of Contents
 
-- [Catamyst Frontend Stack](#catamyst-frontend-stack)
-  - [Roles and Career Path](#roles-and-career-path)
-  - [Preferred Stack](#preferred-stack)
-  - [Tech Stack](#tech-stack)
-  - [Extra Tech Stack](#extra-tech-stack)
-  - [Work Stack](#work-stack)
-  - [People to Follow](#people-to-follow)
-    - [International](#international)
-    - [Indonesian](#indonesian)
+- [Links](#links)
+  - [Catamyst](#catamyst)
+  - [CodePolitan × Catamyst Bootcamp](#codepolitan--catamyst-bootcamp)
+- [Roles and Career Path](#roles-and-career-path)
+- [Preferred Stack](#preferred-stack)
+- [Stack](#stack)
+- [Extra Stack](#extra-stack)
+- [Work Stack](#work-stack)
+- [People to Follow](#people-to-follow)
+  - [International](#international)
+  - [Indonesian](#indonesian)
+- [References](#references)
+
+## Links
+
+### Catamyst
+
+- GitHub repo: https://github.com/catamyst-community/catamyst-frontend-stack
+- Catamyst Stack: https://a.catamyst.com/stack
+- Catamyst on social media:
+  - YouTube: https://a.catamyst.com/youtube
+  - Twitter: https://a.catamyst.com/twitter
+  - Facebook: https://a.catamyst.com/facebook
+  - LinkedIn: https://a.catamyst.com/linkedin
+
+### CodePolitan × Catamyst Bootcamp
+
+> This is a promo :)
+
+Join Full Bootcamp for 30 sessions: https://catamyst.codepolitan.com
+
+- Including the live mentorship sessions, full materials, practice with real projects, discussion/QA outside the sessions, certificate, long term career support, and more.
+- Syllabus: https://a.catamyst.com/codepolitan-silabus
+- Discount Coupons: `HAIDAR` / `KRESNA` for IDR 500,000
+
+Join Mini Bootcamp (Trial Class) for 1 session: https://a.catamyst.com/codepolitan-mini
+
+- Including the live mentorship sessions, session materials, practice with real project, discussion/QA, certificate, and more.
+- Syllabus: https://a.catamyst.com/codepolitan-mini-silabus
+- Discount Coupon: `HAIDARKRESNA` for IDR 50,000
 
 ## Roles and Career Path
 
@@ -153,24 +172,29 @@ Links:
     - CodeSandbox
 - Documentation / [README](https://makeareadme.com)
   - Markdown ⭐
-    - CommonMark
-    - Markdoc ⭐
+    - Format
+      - CommonMark
+      - Markdoc ⭐
+    - Editor
+      - StackEdit
+      - Dillinger
   - AsciiDoc
   - reStructuredText
   - Textile
   - LaTeX
+    - Overleaf
     - Math Formula
 - License
-  - Creative Commons
   - ISC (Internet Systems Consortium)
   - MIT (Massachusetts Institute of Technology) ⭐
   - GPL (GNU General Public License)
   - AGPL (GNU Affero General Public License)
   - BSD (Berkeley Software Distribution)
   - MPL (Mozilla Public License)
-- HTML
-  - DOM
-- CSS
+  - CC (Creative Commons) ⭐
+- HTML (Hypertext Markup Language)
+  - DOM (Document Object Model)
+- CSS (Cascading Style Sheets)
   - CSS Reset
     - Normalize.css
     - modern-normalize ⭐
@@ -260,9 +284,10 @@ Links:
   - React Table
   - React Charts
   - React Virtual
-  - Remotion Video ⭐
+  - Remotion ⭐
   - Slidev ⭐
   - D3.js ⭐
+  - Mermaid.js ⭐
   - p5.js
   - Chart.js
   - Highcharts
