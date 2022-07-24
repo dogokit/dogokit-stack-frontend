@@ -25,6 +25,7 @@ Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https:
 
 - GitHub repo: https://github.com/catamyst-community/catamyst-frontend-stack
 - Catamyst Stack: https://a.catamyst.com/stack
+- Rewinds Stack: https://github.com/mhaidarhanif/rewinds
 - Catamyst on social media:
   - YouTube: https://a.catamyst.com/youtube
   - Twitter: https://a.catamyst.com/twitter
@@ -298,6 +299,13 @@ Join Mini Bootcamp (Trial Class) for 1 session: https://a.catamyst.com/codepolit
   - React Simple Img
   - `react-beautiful-dnd`
   - kbar
+  - Icons
+    - `react-icons`
+    - Font Awesome
+    - Phospor
+  - Animation
+    - Framer Motion
+    - React Spring
   - Rich Text Editor (RTE)
     - Lexical ⭐
     - Quill.js ⭐
@@ -321,6 +329,7 @@ Join Mini Bootcamp (Trial Class) for 1 session: https://a.catamyst.com/codepolit
   - MobX
   - Zustand
   - Recoil
+  - XState
 - Web API: REST / GraphQL / tRPC
   - Inspection
     - Hoppscotch ⭐
@@ -480,6 +489,13 @@ Join Mini Bootcamp (Trial Class) for 1 session: https://a.catamyst.com/codepolit
 - Semantic Versioning (major.minor.patch)
 - Accessibility (a11y)
   - The A11Y Project
+  - Accessibility (aria, accessible components)
+- Performance
+  - lighthouse
+  - rail
+  - prpl
+  - hydration
+  - ssr/csr
 - Internationalization (i18n)
   - [i18next](https://i18next.com)
 - Localization (l10n)
