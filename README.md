@@ -32,22 +32,6 @@ Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https:
   - Facebook: https://a.catamyst.com/facebook
   - LinkedIn: https://a.catamyst.com/linkedin
 
-### CodePolitan × Catamyst Bootcamp
-
-> This is a promo :)
-
-Join Full Bootcamp for 30 sessions: https://catamyst.codepolitan.com
-
-- Including the live mentorship sessions, full materials, practice with real projects, discussion/QA outside the sessions, certificate, long term career support, and more.
-- Syllabus: https://a.catamyst.com/codepolitan-silabus
-- Discount Coupons: `HAIDAR` / `KRESNA` for IDR 500,000
-
-Join Mini Bootcamp (Trial Class) for 1 session: https://a.catamyst.com/codepolitan-mini
-
-- Including the live mentorship sessions, session materials, practice with real project, discussion/QA, certificate, and more.
-- Syllabus: https://a.catamyst.com/codepolitan-mini-silabus
-- Discount Coupon: `HAIDARKRESNA` for IDR 50,000
-
 ## Roles and Career Path
 
 - UI Designer/Developer/Engineer
