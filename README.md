@@ -1,14 +1,9 @@
-# Catamyst Frontend Stack
+# Dogokit Frontend Stack
 
 Discussion and demo for Frontend Web Development with Modern Tech Stack.
 
-Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https://github.com/catamyst-community). [Haidar](https://mhaidarhanif.com) is the Founder and Mentor of [Catamyst](https://github.com/catamyst), [helping people](https://linkedin.com/in/mhaidarhanif) in web development, software engineering, interface design, product management, and tech business.
-
 ## Table of Contents
 
-- [Links](#links)
-  - [Catamyst](#catamyst)
-  - [CodePolitan × Catamyst Bootcamp](#codepolitan--catamyst-bootcamp)
 - [Roles and Career Path](#roles-and-career-path)
 - [Preferred Stack](#preferred-stack)
 - [Stack](#stack)
@@ -20,17 +15,6 @@ Made by [M Haidar Hanif](https://github.com/mhaidarhanif) from [Catamyst](https:
 - [References](#references)
 
 ## Links
-
-### Catamyst
-
-- GitHub repo: https://github.com/catamyst-community/catamyst-frontend-stack
-- Catamyst Stack: https://a.catamyst.com/stack
-- Rewinds Stack: https://github.com/mhaidarhanif/rewinds
-- Catamyst on social media:
-  - YouTube: https://a.catamyst.com/youtube
-  - Twitter: https://a.catamyst.com/twitter
-  - Facebook: https://a.catamyst.com/facebook
-  - LinkedIn: https://a.catamyst.com/linkedin
 
 ## Roles and Career Path
 
